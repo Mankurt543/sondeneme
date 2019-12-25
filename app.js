@@ -28,8 +28,8 @@ res.send("deneme55")
 });
 
 
- //app.use("/",routers)
-  //app.use("/",route)
+  //app.use("/",routers)
+   //app.use("/",route)
 
 
 
